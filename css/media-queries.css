@@ -1,0 +1,126 @@
+/* MEDIA QUERIES */
+@media (min-width: 20em) { 
+    
+    /* INTRO SECTION */
+    
+    .app-icon {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .app-title { 
+        text-align: center;
+    }
+    
+    .intro-description {
+        text-align: center;
+    }
+    
+    .appstore-button {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 20%;
+    }
+    
+    .phone-shape {
+        width: 80%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    /* FEATURES SECTION */
+    
+    .features-section {
+        
+    }
+    
+    .feature-heading {
+        margin-top: 40px;
+        text-transform: uppercase;
+        text-align: center;
+        letter-spacing: 0.8px;
+        font-family: "Lato";
+        font-weight: 400;
+        font-size: 18px;
+    }
+    
+    .feature-description {
+        text-align: center;
+        font-family: "Lato";
+        font-weight: 300;
+        font-size: 20px;
+    }
+    
+    /* PRICE SECTION */
+    .price-section {
+        background-color: #8a776e;
+    }
+    
+    .price-container {
+        padding-bottom: 40px;
+    }
+    
+    .price-heading {
+        padding-top: 40px;
+        text-align: center;
+        text-transform: uppercase;
+        font-family: "Lato";
+        font-weight: 400;
+        color: #fff;
+    }
+    
+    .price-description {
+        text-align: center;
+        font-size: 40px;
+        font-family: "Lato";
+        font-weight: 100;
+        color: #fff;
+    }
+    
+    .get-it-button {
+        display: block;
+        text-align: center;
+        text-transform: uppercase;
+        text-decoration: none;
+        line-height: 40px;
+        letter-spacing: 1.5px;
+        max-width: 40%;
+        color: #fff;
+        border: 1px solid #fff;
+        border-radius: 40px;
+        margin: 0 auto 0 auto;
+    }
+}
+
+@media (min-width: 43.813em) /*CRITICAL 701px*/ {
+    body {
+        /*background-color: #7a83ab;*/
+    }
+    
+    .app-icon {
+        margin: 0 0 0 0;
+    }
+    
+    .app-title {
+        text-align: left;
+    }
+    
+    .intro-description {
+        text-align: left;
+    }
+    
+    .appstore-button {
+        margin: 0 0 0 0;
+    }
+}
+
+/* Larger than tablet
+@media (min-width: 46.875em) {
+    body {
+        background-color: #8a5a4b;
+    }
+}
+*/

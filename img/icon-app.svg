@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="137px" height="137px" viewBox="0 0 137 137" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>icn</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iPhone-Portrait" sketch:type="MSArtboardGroup" transform="translate(-228.000000, -107.000000)">
+            <g id="Intro-Section" sketch:type="MSLayerGroup" transform="translate(65.000000, 79.000000)">
+                <g id="appIcon" transform="translate(135.000000, 0.000000)">
+                    <g id="icn" transform="translate(28.437500, 28.437500)">
+                        <circle id="Oval-4" fill="#8A776E" sketch:type="MSShapeGroup" cx="68" cy="68" r="68"></circle>
+                        <text id="A" sketch:type="MSTextLayer" font-family="Futura" font-size="67.1147541" font-weight="420" sketch:alignment="middle" fill="#FFFFFF">
+                            <tspan x="43.4760515" y="87.662603">A</tspan>
+                        </text>
+                        <text id="+" sketch:type="MSTextLayer" font-family="Avenir Next" font-size="32.2666667" font-weight="420" sketch:alignment="middle" fill="#FFFFFF">
+                            <tspan x="83.7418071" y="52.5085852">+</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

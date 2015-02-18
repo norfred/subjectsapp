@@ -1,0 +1,109 @@
+body {
+    max-width: 60em;
+    background-color: #fff;
+    color: #4a4a4a;;
+    font: 100%/1.6 "Lato", "HelveticaNeue", Helvetica, sans-serif;
+    margin: 0 auto 0 auto;
+}
+
+h1 {
+    font-size: 3em;
+    line-height: 1;
+}
+
+/* INTRO SECTION */
+    .intro-section {
+        padding: 4em 2em 2em 2em;
+    }
+    
+    .app-icon {
+        
+    }
+    
+    .app-title {
+        color: #8a776e;
+        font-weight: 200;
+        font-size: 2.5em;
+        padding: 20px 0 0 0;
+    }
+    
+    .intro-description {
+        padding: 10px 0 10px 0;
+        font-family: "Lato";
+        font-weight: 300;
+        font-size: 2em;
+    }
+    
+    .appstore-button {
+        max-width: 12em;
+        display: block;
+    }
+    
+    .phone-shape {
+        width: 20em;
+        display: block;
+    }
+    
+    /* FEATURES SECTION */
+    
+    .features-section {
+        padding: 3.750em 1.250em 3.750em 1.250em;
+        background-color: #f1f1f1;
+    }
+    
+    .feature-heading {
+        margin-top: 40px;
+        text-transform: uppercase;
+        text-align: center;
+        letter-spacing: 0.8px;
+        font-family: "Lato";
+        font-weight: 400;
+        font-size: 18px;
+    }
+    
+    .feature-description {
+        text-align: center;
+        font-family: "Lato";
+        font-weight: 300;
+        font-size: 20px;
+    }
+    
+    /* PRICE SECTION */
+    .price-section {
+        background-color: #8a776e;
+    }
+    
+    .price-container {
+        padding-bottom: 40px;
+    }
+    
+    .price-heading {
+        margin: 0 0 0 0;
+        padding-top: 40px;
+        text-align: center;
+        text-transform: uppercase;
+        font-family: "Lato";
+        font-weight: 400;
+        color: #fff;
+    }
+    
+    .price-description {
+        text-align: center;
+        font-size: 40px;
+        font-family: "Lato";
+        font-weight: 100;
+        color: #fff;
+    }
+    
+    .get-it-button {
+        display: block;
+        text-align: center;
+        text-transform: uppercase;
+        text-decoration: none;
+        line-height: 40px;
+        letter-spacing: 1.5px;
+        
+        color: #fff;
+        border: 1px solid #fff;
+        border-radius: 40px;
+    }
