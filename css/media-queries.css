@@ -1,6 +1,5 @@
 /* MEDIA QUERIES */
 @media (min-width: 20em) { 
-    
     /* INTRO SECTION */
     
     .app-icon {
@@ -25,8 +24,6 @@
     }
     
     .phone-shape {
-        width: 80%;
-        display: block;
         margin-left: auto;
         margin-right: auto;
     }
@@ -97,7 +94,7 @@
 
 @media (min-width: 43.813em) /*CRITICAL 701px*/ {
     body {
-        /*background-color: #7a83ab;*/
+        background-color: #7a83ab;
     }
     
     .app-icon {
@@ -114,6 +111,10 @@
     
     .appstore-button {
         margin: 0 0 0 0;
+    }
+    
+    .phone-shape {
+        max-width: 70%;
     }
 }
 

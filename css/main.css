@@ -31,7 +31,7 @@ h1 {
         padding: 10px 0 10px 0;
         font-family: "Lato";
         font-weight: 300;
-        font-size: 2em;
+        font-size: 1.75em;
     }
     
     .appstore-button {
@@ -40,8 +40,10 @@ h1 {
     }
     
     .phone-shape {
-        width: 20em;
+        max-width: 14.750em;
         display: block;
+        margin-top: auto;
+        margin-bottom: auto;
     }
     
     /* FEATURES SECTION */
